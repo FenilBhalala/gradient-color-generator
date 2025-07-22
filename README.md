@@ -15,7 +15,6 @@ Welcome to the **Gradient Color Generator** — a simple and interactive web too
 ## 📸 Demo
 
 ![Gradient Color Generator Screenshot](demo-screenshot.png)  
-*(Add a screenshot of your project in the repository and name it `demo-screenshot.png` for display here.)*
 
 ## 🔗 Visit Website
 
